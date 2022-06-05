@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@semcore/core": "latest",
+    "@semcore/d3-chart": "latest",
+    "d3-scale": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest"
+  }
+}
